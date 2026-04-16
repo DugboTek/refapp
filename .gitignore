@@ -1,0 +1,18 @@
+node_modules
+dist
+dist-ssr
+*.local
+.vite
+.DS_Store
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Vite config build artifacts
+vite.config.js
+vite.config.d.ts
+
+# generated data
+src/data/plays.json
+src/data/derived.json
+public/data/plays.json
